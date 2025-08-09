@@ -1,2 +1,2 @@
-# Analise-dados_python
+# Analise-dados-python
 Criação de dashboard para anlise de dados de salários na area de Ti pelo mundo
